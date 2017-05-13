@@ -1,0 +1,17 @@
+using UnityEngine;
+Using System.Collections;
+using System.Collections.Generic;
+
+public class NewBehaviorScript : MonoBehavior{
+
+void Start()
+  {
+
+  }
+
+void Update () 
+  {
+
+  }
+
+}
